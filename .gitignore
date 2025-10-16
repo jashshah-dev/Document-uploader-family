@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Note: uploaded_documents/ and upload_metadata.json are NOT ignored
+# They need to be tracked for the app to work properly on Streamlit Cloud
+
